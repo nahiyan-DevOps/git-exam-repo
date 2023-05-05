@@ -1,3 +1,5 @@
+# Table of Contents
+
 ## 4. Contributors
 Thank you to the following contributors who have helped to improve this project:
 | Name | Email | Phone |
