@@ -1,10 +1,5 @@
 # Table of Contents
 
-
-
-Added my readme
-Edited readme.md
-
 #Project Description
 This is an important component of your project that many new developers often overlook.
 Your description is an extremely important aspect of your project. A well-crafted description 
